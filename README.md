@@ -1,2 +1,2 @@
-me do computer
+me do computer - 
 me is idiot
