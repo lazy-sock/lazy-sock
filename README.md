@@ -5,3 +5,6 @@
 - The Rust Programming Language
 - The C Programming Language
 - Black Hat Rust
+
+## Books I've red
+- How to Build a Car: The Autobiography of the World’s Greatest Formula 1 Designer
