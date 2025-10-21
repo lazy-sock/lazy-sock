@@ -2,8 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,tailwindcss,react,rust,arch,neovim)](https://skillicons.dev)
 
 ## Books I'm reading
-- The C Programming Language
-- Black Hat Rust
+- Clean Code
 
 ## Books I've red
 - The Rust Programming Language
